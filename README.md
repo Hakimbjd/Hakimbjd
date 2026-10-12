@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Hakim Boujdid
 
-<!--
-**Hakimbjd/Hakimbjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Junior Web Developer | Morocco 🇲🇦
 
-Here are some ideas to get you started:
+I'm a passionate junior web developer interested in building modern, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently learning:** React.js and modern web development.
+
+💡 **Interests:** Frontend Development, Backend Development, and Web Applications.
+
+📚 **Technologies I'm learning and practicing:**
+
+- HTML5 & CSS3
+- JavaScript
+- React.js
+- PHP
+- SQL
+- Bootstrap
+- Git & GitHub
+
+🎯 **My Goal:** Improve my development skills, build real-world projects, and gain professional experience through an internship.
+
+📍 Agadir, Morocco
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,php,mysql,git,github,vscode" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+- GitHub: [@Hakimbjd](https://github.com/Hakimbjd)
+
+---
+
+⭐ *Learning every day. Building step by step.*
